@@ -47,7 +47,7 @@
 
 /* Quotes */
 .quotes{
-    background-color: rgb(252, 7, 7);
+    background-color: rgb(77, 2, 2);
     border-top: 1px dashed rgb(24, 24, 24);
     border-bottom: 1px dashed rgb(24, 24, 24);
     padding: 10px;
@@ -56,13 +56,13 @@
 
 .block-quote{
     font-weight: bold;
-    background-color: rgb(252, 7, 7);
-    font-size: 25px;
+    background-color: rgb(77, 2, 2);
+    font-size: 30px;
 }
 
 .paragraph-quote{
-    background-color: rgb(252, 7, 7);
-    font-size: 35px;
+    background-color: rgb(77, 2, 2);
+    font-size: 25px;
     font-style: italic;
 }
 
